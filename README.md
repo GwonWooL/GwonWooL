@@ -18,10 +18,12 @@
 <br />
 <br />
 ## Skills
-#### I use it often.
-<div style="display:flex;gap:30px;flex-wrap:wrap;">
+## Skills  
+#### I use it often.  
+<div style="display:flex; gap:30px; flex-wrap:wrap; align-items:center;">
   <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
-
+  <i class="devicon-java-plain-wordmark" style="font-size: 48px; color: #007396;"></i>
+</div>
 <br />
 <br />
 
