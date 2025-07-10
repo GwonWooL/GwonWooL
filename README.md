@@ -5,7 +5,6 @@
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjc3a2RwZTJrMWRvaTVxbmk3YWhnZmd4cXRiY3dtbDRlcmZndnB6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yudYg49FheLPggvUTN/giphy.gif" height="24" style="display: block;" />
   <span style="font-size: 18px; font-weight: bold; line-height: 1; position: relative; top: -6px;">##toolBox</span>
-  =============
 </div>
 
 
