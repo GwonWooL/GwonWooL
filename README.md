@@ -17,7 +17,7 @@
 <br />
 <br />
 <br />
-## Skills
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/devicon.min.css">
 ## Skills  
 #### I use it often.  
 <div style="display:flex; gap:30px; flex-wrap:wrap; align-items:center;">
