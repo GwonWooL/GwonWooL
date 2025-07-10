@@ -2,9 +2,9 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NmZnR5d2FrcWNwcHBvY2thdjBwMmJraHNzbG5idGxpNHA3YXVwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrNWPknO6rajK4Yx7n/giphy.gif" height="96"/>
 
 <!-- 두 번째 GIF + toolBox 텍스트 (가운데 정렬) -->
-<div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjc3a2RwZTJrMWRvaTVxbmk3YWhnZmd4cXRiY3dtbDRlcmZndnB6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yudYg49FheLPggvUTN/giphy.gif" height="56" style="display: block;"/>
-  <span style="font-size: 20px; font-weight: bold; line-height: 1; position: relative; top: 2px;">toolBox</span>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjc3a2RwZTJrMWRvaTVxbmk3YWhnZmd4cXRiY3dtbDRlcmZndnB6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yudYg49FheLPggvUTN/giphy.gif" height="48" style="display: block;" />
+  <span style="font-size: 18px; font-weight: bold; line-height: 1; position: relative; top: -2px;">toolBox</span>
 </div>
 
 
