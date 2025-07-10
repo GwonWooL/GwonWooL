@@ -7,6 +7,7 @@
   <span style="font-size: 20px; font-weight: bold; line-height: 1; position: relative; top: 2px;">toolBox</span>
 </div>
 
+
 <!-- 기술 아이콘들 -->
 <div style="display:flex; gap:30px; flex-wrap:wrap; align-items:center; margin-top: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="48"/>
